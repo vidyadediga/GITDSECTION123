@@ -2,3 +2,4 @@ vidya
 shimoga
 AIT Bnglr
 soldevanhalli
+ediga:
