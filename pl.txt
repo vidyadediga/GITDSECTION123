@@ -7,3 +7,4 @@ ediga:
 New branch is created
 
 user1 is created
+new branch is created
